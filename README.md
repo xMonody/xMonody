@@ -1,5 +1,5 @@
 <div align="center">
-<img height="300" width="600" src="https://github.com/xMonody/xMonody/blob/main/hello.gif" alt="gif with funny random cat say thank you." />
+<img height="300" width="500" src="https://github.com/xMonody/xMonody/blob/main/hello.gif" alt="gif with funny random cat say thank you." />
 
 <div align="center">
 <img heiht="400" src="https://github-readme-stats.vercel.app/api?username=xMonody&show_icons=true&theme=radical"
